@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">touchstoneapp</string>
+    <string name="title_activity_main">touchstoneapp</string>
+    <string name="package_name">touchstone.com.app</string>
+    <string name="custom_url_scheme">touchstone.com.app</string>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "path": "/dashboard/",
+        "matchPath": "/dashboard/*"
+    },
+    {
+        "path": "/logout/",
+        "matchPath": "/logout/*"
+    },
+    {
+        "path": "/my-company/",
+        "matchPath": "/my-company/*"
+    }
+]
