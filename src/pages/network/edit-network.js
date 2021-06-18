@@ -86,7 +86,6 @@ export default class EditNetwork extends Component {
                       <h1 className="mb-5">View/Edit Network (2)</h1>
                     </Col>
                   </Row>
-
                   <Row className="justify-content-center align-items-center mb-5">
                     <Col className="col-lg-12">
                     <form>
